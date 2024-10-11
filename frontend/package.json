@@ -31,6 +31,10 @@
     "styled-components": "^6.1.13",
     "yup": "^1.4.0"
   },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.5.0",
+    "@testing-library/react": "^16.0.1"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
