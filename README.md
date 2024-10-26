@@ -57,8 +57,3 @@ Ensure you have the following installed:
 - Node.js
 - npm
 - MongoDB
-
-### Backend Setup
-1. Navigate to the backend directory:
-   ```bash
-   cd backend
